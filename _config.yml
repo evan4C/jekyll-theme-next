@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: oasis
 subtitle:
 description: 为往圣继绝学，为万世开太平
 author: evan
@@ -118,10 +118,10 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories/
-  about: /about/
   archives: /archives/
+  categories: /categories/
   tags: /tags/
+  about: /about/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
