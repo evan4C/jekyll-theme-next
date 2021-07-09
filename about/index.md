@@ -5,7 +5,7 @@ type: about
 
 Pale Blue Dot
 
-![NASA 4:48 GMT on Feb. 14, 1990](https://photojournal.jpl.nasa.gov/jpeg/PIA23645.jpg)
+![NASA 4:48 GMT on Feb. 14, 1990](https://photojournal.jpl.nasa.gov/jpegMod/PIA23645_modest.jpg)
 
 In 1990, the Voyager project planned to shut off the Voyager 1 spacecraft's imaging cameras to conserve power and because the probe, along with its sibling Voyager 2, would not fly close enough to any other objects to take pictures. Before the shutdown, the mission commanded the probe to take a series of 60 images designed to produce what they termed the "Family Portrait of the Solar System." Executed on Valentine's Day 1990, this sequence returned images for making color views of six of the solar system's planets and also imaged the Sun in monochrome.
 
